@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283339848967",
+    "firebase_url": "https://babynames-3d674.firebaseio.com",
+    "project_id": "babynames-3d674",
+    "storage_bucket": "babynames-3d674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283339848967:android:ad10ad8bd78ca8023b99a2",
+        "android_client_info": {
+          "package_name": "com.example.babynames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283339848967-p3vm4l2e9hkm8j02qdnapq4kp6rm6fhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.babynames",
+            "certificate_hash": "e2ab809e8bedccd2167c7eab83d48afc780a3f60"
+          }
+        },
+        {
+          "client_id": "283339848967-l0d6hrifalj385o2tbqr7b9gkqt7rnq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClMCMl_zDuk8YMybsQ2vFsE48ZtF3j_1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283339848967-l0d6hrifalj385o2tbqr7b9gkqt7rnq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
